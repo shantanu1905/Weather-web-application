@@ -1,2 +1,2 @@
 # Weather web application
- web application using weather api
+ weather web application using OpenWeatherMaps api
